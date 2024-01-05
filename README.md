@@ -6,9 +6,9 @@
 </p>
 
 Hey there, Thanks for visiting my profile... 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am John Rajan.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Ronny Kutter.
 
-### Checkout my Portfolio: [John Rajan](https://my-portfolio-lime-nine-47.vercel.app/)  👈
+### Checkout my Portfolio: [Ronny Kutter](https://my-portfolio-lime-nine-47.vercel.app/)  👈
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
@@ -16,8 +16,8 @@ Hey there, Thanks for visiting my profile...
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/HighTechular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=john+rajan&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - john rajan"></a>
-[![Gmail - John Rajan](https://img.shields.io/badge/Gmail-JohnRajan-red?logo=gmail&logoColor=red)](tiger773131@gmail.com)
+<a href="https://www.linkedin.com/in/HighTechular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>
+[![Gmail - Ronny Kutter](https://img.shields.io/badge/Gmail-RonnyKutter-red?logo=gmail&logoColor=red)](tiger773131@gmail.com)
 
 
 ### About Me 🚀
@@ -82,7 +82,7 @@ I'm well-versed in:<br>
 
 
 
- ![john's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=HighTechular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ ![Ronny's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=HighTechular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
  <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=HighTechular95908.HighTechular95908" alt="HighTechular95908" />
 
