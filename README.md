@@ -16,8 +16,8 @@ Hey there, Thanks for visiting my profile...
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/HighTechular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>
-[![Gmail - Ronny Kutter](https://img.shields.io/badge/Gmail-RonnyKutter-red?logo=gmail&logoColor=red)](tiger773131@gmail.com)
+<!--<a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>-->
+[![Gmail - Ronny Kutter](https://img.shields.io/badge/Gmail-RonnyKutter-red?logo=gmail&logoColor=red)](ronnykutter95908@gmail.com)
 
 
 ### About Me 🚀
