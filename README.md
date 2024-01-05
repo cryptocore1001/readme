@@ -1,14 +1,14 @@
-![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg)
+<!-- ![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg) -->
 
 
 <p align="center">
-  <img width="" height="" src="https://avatars.githubusercontent.com/u/152673060?s=400&u=32566625e044f500d81bd41567e1acbc6c987d97&v=4">
+  <!-- <img width="" height="" src="https://avatars.githubusercontent.com/u/152673060?s=400&u=32566625e044f500d81bd41567e1acbc6c987d97&v=4"> -->
 </p>
 
 Hey there, Thanks for visiting my profile... 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Ronny Kutter.
 
-### Checkout my Portfolio: [Ronny Kutter](https://my-portfolio-lime-nine-47.vercel.app/)  👈
+### Checkout my Portfolio: [Ronny Kutter](https://full-stack-portfolio-ivory.vercel.app/)  👈
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
@@ -16,8 +16,8 @@ Hey there, Thanks for visiting my profile...
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/HighTechular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>
-[![Gmail - Ronny Kutter](https://img.shields.io/badge/Gmail-RonnyKutter-red?logo=gmail&logoColor=red)](tiger773131@gmail.com)
+<!--<a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>-->
+[![Gmail - Ronny Kutter](https://img.shields.io/badge/Gmail-RonnyKutter-red?logo=gmail&logoColor=red)](ronnykutter95908@gmail.com)
 
 
 ### About Me 🚀
@@ -54,11 +54,11 @@ I'm well-versed in:<br>
 
 ### My Projects 🙌
 
-#### [See in Portfolio](https://my-portfolio-lime-nine-47.vercel.app/)
+#### [See in Portfolio](https://full-stack-portfolio-ivory.vercel.app/)
 
 ### Articles 📝 Written by me ✍️
 
-#### [See in Portfolio](https://my-portfolio-lime-nine-47.vercel.app/)
+#### [See in Portfolio](https://full-stack-portfolio-ivory.vercel.app/)
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
@@ -89,4 +89,4 @@ I'm well-versed in:<br>
 </p>
 
 
-![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg)
+<!-- ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg) -->
