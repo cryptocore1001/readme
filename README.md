@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="" height="" src="https://avatars.githubusercontent.com/u/152673060?s=400&u=32566625e044f500d81bd41567e1acbc6c987d97&v=4">
+<!--   <img width="" height="" src="https://avatars.githubusercontent.com/u/152673060?s=400&u=32566625e044f500d81bd41567e1acbc6c987d97&v=4"> -->
 </p>
 
 Hey there, Thanks for visiting my profile... 
