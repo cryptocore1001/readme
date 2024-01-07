@@ -12,11 +12,11 @@ Hey there, Thanks for visiting my profile...
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
-### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/HighTechular95908/Get-Pair-Extraordinaire)  👈 -->
+### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/hightechular95908/Get-Pair-Extraordinaire)  👈 -->
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/HighTechular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>
+<a href="https://www.linkedin.com/in/hightechular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>
 [![Gmail - Ronny Kutter](https://img.shields.io/badge/Gmail-RonnyKutter-red?logo=gmail&logoColor=red)](tiger773131@gmail.com)
 
 
@@ -62,29 +62,29 @@ I'm well-versed in:<br>
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HighTechular95908&theme=nord_dark" alt="Top Languages by Repo" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HighTechular95908&theme=nord_dark" alt="Top Languages by Commits" /></p>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hightechular95908&theme=nord_dark" alt="Top Languages by Repo" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hightechular95908&theme=nord_dark" alt="Top Languages by Commits" /></p>
   
   Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/HighTechular95908">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HighTechular95908&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HighTechular95908&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/hightechular95908">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hightechular95908&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hightechular95908&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HighTechular95908&theme=algolia" alt="HighTechular95908" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hightechular95908&theme=algolia" alt="hightechular95908" /></p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=HighTechular95908&column=6&theme=algolia" alt="HighTechular95908Trophy" /></p>
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=hightechular95908&column=6&theme=algolia" alt="hightechular95908Trophy" /></p>
 
 
 
- ![Ronny's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=HighTechular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ ![Ronny's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=hightechular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
- <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=HighTechular95908.HighTechular95908" alt="HighTechular95908" />
+ <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=hightechular95908.hightechular95908" alt="hightechular95908" />
 
 </p>
 
