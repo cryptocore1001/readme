@@ -6,9 +6,9 @@
 </p>
 
 Hey there, Thanks for visiting my profile... 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Ronny Kutter.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Takao Momoto.
 
-### Checkout my Portfolio: [Ronny Kutter](https://full-stack-portfolio-ivory.vercel.app/)  👈
+### Checkout my Portfolio: [Takao Momoto](https://takao-porfolio.vercel.app/)  👈
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
@@ -16,8 +16,8 @@ Hey there, Thanks for visiting my profile...
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Ronny+Kutter&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Ronny Kutter"></a>
-[![Gmail - Ronny Kutter](https://img.shields.io/badge/Gmail-RonnyKutter-red?logo=gmail&logoColor=red)](tiger773131@gmail.com)
+<a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Takao+Momoto&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Takao Momoto"></a>
+[![Gmail - Takao Momoto](https://img.shields.io/badge/Gmail-TakaoMomoto-red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
 
 
 ### About Me 🚀
@@ -54,11 +54,11 @@ I'm well-versed in:<br>
 
 ### My Projects 🙌
 
-#### [See in Portfolio](https://full-stack-portfolio-ivory.vercel.app/)
+#### [See in Portfolio](H.app/)
 
 ### Articles 📝 Written by me ✍️
 
-#### [See in Portfolio](https://full-stack-portfolio-ivory.vercel.app/)
+#### [See in Portfolio](https://takao-porfolio.vercel.app/)
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
@@ -82,7 +82,7 @@ I'm well-versed in:<br>
 
 
 
- ![Ronny's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=hightecular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+ ![Takao's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=hightecular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
  <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=hightecular95908.hightecular95908" alt="hightecular95908" />
 
