@@ -1,6 +1,5 @@
 <!-- ![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg) -->
 
-
 <p align="center">
   <!-- <img width="" height="" src="https://avatars.githubusercontent.com/u/152673060?s=400&u=32566625e044f500d81bd41567e1acbc6c987d97&v=4"> -->
 </p>
@@ -88,5 +87,3 @@ I'm well-versed in:<br>
 
 </p>
 
-
-<!-- ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg) -->
