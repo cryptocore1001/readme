@@ -6,9 +6,9 @@
 </p>
 
 Hey there, Thanks for visiting my profile... 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Tomas Lewis.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Takao Momoto.
 
-<!-- ### Checkout my Portfolio: [Tomas Lewis](https://takao-porfolio.vercel.app/)  👈 -->
+### Checkout my Portfolio: [Takao Momoto](https://takao-porfolio.vercel.app/)  👈
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
@@ -16,8 +16,8 @@ Hey there, Thanks for visiting my profile...
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Tomas+Lewis&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Tomas Lewis"></a>
-[![Gmail - Tomas Lewis](https://img.shields.io/badge/Gmail-TakaoMomoto-red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
+<a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Takao+Momoto&color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Takao Momoto"></a>
+[![Gmail - Takao Momoto](https://img.shields.io/badge/Gmail-TakaoMomoto-red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
 
 
 ### About Me 🚀
@@ -58,7 +58,7 @@ I'm well-versed in:<br>
 
 ### Articles 📝 Written by me ✍️
 
-<!-- #### [See in Portfolio](https://takao-porfolio.vercel.app/) -->
+#### [See in Portfolio](https://takao-porfolio.vercel.app/)
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
