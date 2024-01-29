@@ -24,21 +24,65 @@ Hey there, Thanks for visiting my profile...
 ### About Me 🚀
 
  <p align="justify">
- I am an Experienced Senior WordPress Developer.<br> I have more than 🏆6+ years of solid experience🏆 in WordPress Development, 
-I'm capable of transforming your idea into a fully secured, SEO friendly, responsive and interactive WordPress website.
+Hello, I am an Expert-Vetted, Software Engineer specialization in Conversational AI. 
+I have expertise with chatbot frameworks, like  Conversational AI RASA, Amazon Alexa, Engati, Twilio, Dialog360, CHATFUEL, Many chat, Landbot.io, chatbot.com, Wati.io and many others.
+I have helped companies integrate chatbots with systems already in place for 5+ years. 
+First I do the integration accordingly for the use case using Python & Flask then help the technical team with the solution.
 
-My services:<br>
-🚀  Engaging online-shop | Crafting Pixel-perfect Experiences | Turning Designs into Experiences |  For Both Web and Mobile! 🎨<br>
-🎉  Stunning landing page | Customized theme/plugin | HTML, CSS, JS ✨<br>
-🌟  High-quality Product | High-reliance | Making your Site Beautiful and Useful | High-speed development💡<br>
+🚀Chatbot:
+ I can develop chatbots for multiple communication channels such as websites, social media platforms (Facebook, Instagram), messaging apps (WhatsApp, Telegram), SMS, and voice bots. 
+ I am well-versed in leveraging Webhooks for seamless integration with existing systems.
+ I have successfully developed and deployed chatbots across various industries, including airlines, Real Estate, healthcare, dental services, events management, E-commerce and recruitment agencies. 
+ My experience encompasses web chatbots, WhatsApp chatbots, Facebook chatbots, Telegram bots, voice bots, and SMS chatbots.
+    🤩Why Chatbot:
+    I Strongly believe, that a chatbot can be a virtual assistant of any business because chatbot can be available 24/7 which will increase customer satisfaction and engagement with your business. 
+    It means more data will be generated we can use the data for analysis, visualization and API's.
+🚀LLM:
+ I have been developing applications with OPENAI and Google PALM for the past few months. 
+ Especially for Extractive/Generative Question & Answering systems for unstructured text data like pdf. docx, website, JSON, google sheet etc.
+ I can create a custom chatbot based on that data without much training needed.
 
-I'm well-versed in:<br>
-👉 Designing Tools:- Figma, Adobe XD, Sketch, Photoshop, Illustrator<br>
-👉 CMS:- WordPress, WIX, Squarespace, Webflow, Shopify, HubSpot, Craft CMS, etc.<br>
-👉 Landing pages:- Unbounce, Leadpages, ClickFunnels, Instapage, etc.<br>
-👉WordPress Builders:- Elementor Pro, DIVI, Gutenberg, Thrive, Oxygen Builder, Beaver Builder, WPBakery Page Builder, and Advance Custom Field<br>
-👉 WordPress Plugin:- Gravity Forms, Contact Form 7, WPML, Weglot, WooCommerce, Yoast SEO, SeedProd, WP Rocket, etc.<br>
-👉Themes:- Avada, Astra, Salient, BeTheme, Flatsome, Uncode, Bridge, X Theme, Enfold, Jupiter, Genesis Framework
+🏅Experiences:
+✔️Big Data & ML,<br>
+By leveraging Apache Spark, I preprocessed the given data, performed the necessary cleaning and feature extraction, and chose the most suitable AI model for the task at hand. 
+The distributed nature of Apache Spark allows for efficient processing of large datasets, making it a popular choice for big data analytics and machine learning tasks.
+✔️Resource-prelimited Chatbot<br>
+I developed various integrated ChatGPT projects such as "Proprietary AI" to assist customers with proprietary information(feeding from PDF, XLSX).
+Main issue was to build a resourece-predefined Chatbot which answer the info only related to this company.
+I've tried prompting and extracting specified data from PDFs, documents, but it was difficult.
+After then, I found that solution.
+That was great!
+✔️AI Crypto Trading<br>
+I have some experience with Trading automation using AI.
+In the previous work, I worked on the AI-based Go lang project for the trading.
+My client gave me a great review.
+✔️Image detection<br>
+In my previous work, we built a Alcohol-detection system for bad drive.
+That project included,  Raspberry Pi hardware (alcohol detection using Q-Alcohol smart sensor, drive sleepy-detection using CCD camera ) and detection software to analysis the data using AI. 
+That is utilizing broadly to avoid the traffic troubles.
+During that project, there were so many difficulties but we struggled into success.
+That was perfect.
+My role was to integrate the hardware and software(in particular, AI software image detection and processing using TensorFlow).
+✔️Own Model<br>
+-Input Sanitization
+-Syntax Validation
+-Query Parameterization
+-Domain-Specific Validation
+-NLP library:
+NLTK 
+spaCy
+-Frame works:
+TensorFlow or PyTorch
+✔️Data extraction<br>
+I was in a data engineer's project.
+I have used TensorFlow, padas, numpy, pysimplegui, aqdefreader, and docx python libraries.
+Especially, I have analized the qdas files content and ouputed the report for the specific information by using TensorFlow.
+It included excel, pdf and doc files with the specific table and graph.
+As well as the workflow automatino perfectly completed!
+Interpreting the given QDAS file, extraction and statistics from scratch was too difficult, but I did it successfully.  
+I can analize all the data including QDAS files by using them.<br>
+
+Feel free to contact me if you need any help.
  </p>
 
   
