@@ -16,9 +16,9 @@ Hey there, Thanks for visiting my profile...
 
 ### Let's Connect 🤳
 
-<a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
+<!-- <a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
 [![Gmail - Volodymyr Bufan](https://img.shields.io/badge/Gmail-VolodymyrBufan -red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
-
+-->
 
 ### About Me 🚀
 
