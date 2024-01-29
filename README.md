@@ -42,7 +42,7 @@ First I do the integration accordingly for the use case using Python & Flask the
  Especially for Extractive/Generative Question & Answering systems for unstructured text data like pdf. docx, website, JSON, google sheet etc.<br>
  I can create a custom chatbot based on that data without much training needed.<br>
 
-🏅Experiences:
+🏅Experiences:<br>
 ✔️Big Data & ML,<br>
 By leveraging Apache Spark, I preprocessed the given data, performed the necessary cleaning and feature extraction, and chose the most suitable AI model for the task at hand. <br>
 The distributed nature of Apache Spark allows for efficient processing of large datasets, making it a popular choice for big data analytics and machine learning tasks.<br>
