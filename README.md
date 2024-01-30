@@ -6,9 +6,9 @@
 </p>
 
 Hey there, Thanks for visiting my profile... 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Volodymyr Bufan.
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Volodymyr Bufan. -->
 
-### Checkout my Portfolio: [Volodymyr Bufan](https://bufan-ai-portfolio.vercel.app/)  👈
+<!-- ### Checkout my Portfolio: [Volodymyr Bufan](https://bufan-ai-portfolio.vercel.app/)  👈 -->
 
 <!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
 
